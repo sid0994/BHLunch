@@ -1,0 +1,9 @@
+/* Enter your custom styles here */
+.sapMPlanCalHead>.sapMTB.sapMIBar {
+    visibility: collapse;
+        height: 0;
+}
+.sapMPlanCal .sapUiCalHead {
+    visibility: collapse;
+    height: 0;
+}
